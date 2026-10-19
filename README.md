@@ -14,12 +14,12 @@ Skills: playing pony town, writing, drawing, reading!
 <img src='https://i.pinimg.com/originals/01/31/90/013190edf5d6fe1760d6a1c47fd7bb66.gif' height='300' width='300'>
 
 <img SRC='https://file.garden/aZUb6QkyAioQfA6V/dandys%20world%20blinkies/character%20blinkies/DandyBlinkie.gif' height='50' width='300'>
-- 🌱 I’m currently learning HTML coding! 
-- 💬 Ask me about Anything! 
+- 🌱 learning HTML coding
+- 💬 im okay to chat about anything corralated to dw, Undertale, deltarune, or any of my interests. (I have a alot, just mention something and ask if I know it. I love learning new fandoms.
 - 📫 How to reach me: Pony town! Or through my discord, bobettelover! 
 - 😄 Pronouns: She/They! 
-- ⚡ Fun fact: I have DID, epilepsy, and Autism! 
-
+- ⚡ I have DID, epilepsy, and Autism
+-my third time changing this. I use ai bc I was lazy once and suddenly all of my sentences r ai! <3 luv u all!
 
 <img SRC='https://files.catbox.moe/jawhih.gif' height='100' width='400'>
 
