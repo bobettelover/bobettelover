@@ -1,5 +1,8 @@
 ### Hi there 👋, Welcome to my Cottage!
-<img SRC='https://i.pinimg.com/736x/b6/ff/55/b6ff55b265aaa4f170d8f1672f4b7be6.jpg' height='100' width='400'> 
+
+<img src='https://files.catbox.moe/6io1gi.gif' height='100' width='400'>
+
+<img SRC='https://i.pinimg.com/736x/b6/ff/55/b6ff55b265aaa4f170d8f1672f4b7be6.jpg' height='200' width='400'> 
 
 #### My name is Cali, Or bobettelover!
 ![My name is Cali, Or bobettelover!](https://i.pinimg.com/originals/e0/60/ac/e060acae41b1c1e4849ddbc0717ceeb6.gif)
@@ -8,9 +11,9 @@ Yes, I did use to have a AI made readme bio.. I apologize, I was too lazy to mak
 
 Skills: playing pony town, writing, drawing, reading!
 
-<img src='https://files.catbox.moe/6io1gi.gif' height='100' width='300'>
+<img src='https://i.pinimg.com/originals/01/31/90/013190edf5d6fe1760d6a1c47fd7bb66.gif' height='300' width='300'>
 
-<img SRC='https://file.garden/aZUb6QkyAioQfA6V/dandys%20world%20blinkies/character%20blinkies/BobetteBlinkie.gif' height='50' width='300'>
+<img SRC='https://file.garden/aZUb6QkyAioQfA6V/dandys%20world%20blinkies/character%20blinkies/DandyBlinkie.gif' height='50' width='300'>
 - 🌱 I’m currently learning HTML coding! 
 - 💬 Ask me about Anything! 
 - 📫 How to reach me: Pony town! Or through my discord, bobettelover! 
@@ -18,7 +21,7 @@ Skills: playing pony town, writing, drawing, reading!
 - ⚡ Fun fact: I have DID, epilepsy, and Autism! 
 
 
-<img SRC='https://files.catbox.moe/g6303u.gif' height='100' width='400'>
+<img SRC='https://files.catbox.moe/jawhih.gif' height='100' width='400'>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bobettelover)  
 
