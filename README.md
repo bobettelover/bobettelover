@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to my Cottage!
-<img SRC='https://files.catbox.moe/toc7ye.gif' height='100' width='400'> 
+<img SRC='https://i.pinimg.com/736x/b6/ff/55/b6ff55b265aaa4f170d8f1672f4b7be6.jpg' height='100' width='400'> 
 
 #### My name is Cali, Or bobettelover!
 ![My name is Cali, Or bobettelover!](https://i.pinimg.com/originals/7f/25/6d/7f256d497d2fed415c25fdc522c17b3f.gif)
