@@ -2,7 +2,7 @@
 
 <img src='https://files.catbox.moe/6io1gi.gif' height='100' width='400'>
 
-<img SRC='https://i.pinimg.com/736x/b6/ff/55/b6ff55b265aaa4f170d8f1672f4b7be6.jpg' height='200' width='400'> 
+<img SRC='https://i.pinimg.com/736x/b6/ff/55/b6ff55b265aaa4f170d8f1672f4b7be6.jpg' height='400' width='700'> 
 
 #### My name is Cali, Or bobettelover!
 ![My name is Cali, Or bobettelover!](https://i.pinimg.com/originals/e0/60/ac/e060acae41b1c1e4849ddbc0717ceeb6.gif)
